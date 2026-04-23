@@ -10,8 +10,7 @@ I focus more on **product value** than unnecessary programming complexity — th
 
 When I learn something new, I learn it **fast and slow**:
 > I start fast — to grasp essentials quickly.  
-> Then I slow down — to understand deeply and connect the dots.  
-> Like reading a good book — first for the story, then for meaning.
+> Then I slow down — to understand deeply and connect the dots.
 
 ---
 
