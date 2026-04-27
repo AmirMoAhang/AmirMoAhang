@@ -1,11 +1,11 @@
 # Hey there 👋, I'm Amir Mo. Ahang
 
-Full‑Stack Developer • Product‑Focused Builder • Curious Learner
+Sofware Developer • Product‑Focused Builder • Curious Learner
 
 ---
 
 ### 👨‍💻 About Me
-I'm a full‑stack developer who loves creating products that truly help users.  
+I'm a software developer who loves creating products that truly help users.  
 I focus more on **product value** than unnecessary programming complexity — though I deeply care about **performance, readability, and maintainability**.
 
 When I learn something new, I learn it **fast and slow**:
