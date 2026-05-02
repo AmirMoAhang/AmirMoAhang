@@ -20,13 +20,12 @@ When I learn something new, I learn it **fast and slow**:
 - 🗄️  SQL / MongoDB 
 - 📊  Machine Learning: NumPy | Pandas | Matplotlib / Seaborn | Scikit-learn
 - 🌐  Django (mid‑level) 
-  
+- ⚡  FastAPI
 
 
 ---
 
-### 🚀 Currently Exploring
-- ⚡ **FastAPI** — for modern API design  
+### 🚀 Currently Exploring  
 - 🐧 **LPIC** — expanding my Linux knowledge  
 - ☁️ **Project Deployment & MLOps** — bringing ML from experiments to production
 
